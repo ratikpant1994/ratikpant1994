@@ -17,7 +17,8 @@ Developed a machine learning model to forecast weekly rent across Australian sub
 
 ---
 
-### 🛍️ [Trial vs Control Store Uplift Analysis]([https://github.com/ratikpant1994/trial-vs-control-uplift-analysis](https://github.com/ratikpant1994/Quantium-trial-stores-sales-uplifting-test/blob/main/QUANTIUM%20ANALYTICS%20TASK%202.ipynb)  
+### 🛍️ [Trial vs Control Store Uplift Analysis](https://github.com/ratikpant1994/Quantium-trial-stores-sales-uplifting-test/blob/main/QUANTIUM%20ANALYTICS%20TASK%202.ipynb)  
+
 Evaluated trial store performance using pre/post uplift testing with matched control stores.  
 📊 Delivered insights on sales uplift, customer growth & transaction behaviors.  
 📈 Techniques: `Correlation Analysis`, `t-tests`, `Uplift Measurement`, `Matplotlib`, `EDA`  
