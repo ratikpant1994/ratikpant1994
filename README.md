@@ -60,8 +60,7 @@ Developed an interactive dashboard to visualize data science job opportunities g
 
 ## 🤝 Let's Connect
 
-📫 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+📫 Email: ratik.pant@gmail.com   
 🌐 Portfolio Website (Coming Soon)
 
 ---
