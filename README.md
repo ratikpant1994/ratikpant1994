@@ -35,6 +35,7 @@ Built a predictive model to classify customers as high or low spenders during Bl
 
 ---
 ### [**early-student-risk-prediction**](https://github.com/ratikpant1994/early-student-risk-prediction)
+[REPORT](https://github.com/ratikpant1994/early-student-risk-prediction/blob/main/36106-25AU-AT2-%3C25116765%3E-project_report.pdf)
 Developed a machine learning pipeline to predict at-risk students early using academic 📚, behavioral 🧠, and socio-economic data 💼.
 Explored and cleaned a dataset of 989 students, with feature engineering 🔧 and hypothesis testing 🔍.
 Applied and compared models, including Logistic Regression, Decision Tree 🌳, Random Forest 🌲, SVM, and XGBoost 🚀.
