@@ -8,7 +8,14 @@ Welcome to my GitHub! I'm a hands-on data practitioner who loves building, exper
 ---
 
 ## 🚀 Featured Projects
+### [British Airways Customer Review Analytics](https://github.com/ratikpant1994/British-Airways-Review-Analytics/blob/main/Airline%20Review%20NLP%20Pipeline%20–%20Skytrax%20Web%20Scraper%20%2B%20Analysis.ipynb)
 
+🧠 Applied: Web scraping, data cleaning, TF-IDF, sentiment analysis (VADER), Random Forest classification.
+🔍 Achieved: Identified key drivers of customer dissatisfaction and recommendation using review text, service ratings, and traveler demographics.
+🛠️ Tools: Python, Pandas, Scikit-learn, NLTK, BeautifulSoup, Matplotlib, Seaborn.
+📈 Outcome: Delivered actionable insights—seat comfort and staff service are top pain points; provided recommendations to improve customer satisfaction and boost recommendation rates.
+
+---
 ### 🏡 [House Rent Prediction – Suburban Australia](https://github.com/ratikpant1994/House_Rent-prediction-Australia)) 
 Developed a machine learning model to forecast weekly rent across Australian suburbs.  
 📌 Achieved **~85% improvement** in RMSE using KNN over baseline linear regression.  
