@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ratik Pant
 
-🎓 Master of Business Analytics | 🔍 Data Science & Analytics Enthusiast  
+🎓 Master of Business / Data Analytics | 🔍 Data Science & Analytics Enthusiast  
 💻 Passionate about solving real-world problems with data-driven insights
 
 Welcome to my GitHub! I'm a hands-on data practitioner who loves building, experimenting, and improving solutions every day. From statistical modeling to real-time deployment, I enjoy working across the data science lifecycle — with a strong focus on impact and clarity.
